@@ -5,6 +5,8 @@
 - 💻 Desenvolvo projetos em **Python** e **Java**.
 - 🎯 Este perfil foi criado para **registrar meu aprendizado** e servir como **portfólio profissional**.
 
+## ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c4uan&show_icons=true&theme=dark)
+
 ## 🚀 O que você encontra aqui?
 - Projetos pessoais e acadêmicos que refletem meu crescimento como desenvolvedor.
 - Código bem estruturado, documentado e com foco em boas práticas.
