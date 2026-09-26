@@ -1,8 +1,8 @@
-# 👋 Olá, eu sou o Cauan! 
+# 👋 Oi, me chamo Cauan! 
 
 ## 🧑‍💻 Sobre mim
-- 🎓 Estudante de **Ciência da Computação**.
-- 💻 Desenvolvo projetos em **Python** e **Java**.
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**.
+- 💻 Desenvolvo projetos em **JavaScript**, **TypeScript** e **Java**.
 - 🎯 Este perfil foi criado para **registrar meu aprendizado** e servir como **portfólio profissional**.
 
 ## ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c4uan&show_icons=true&theme=dark)
